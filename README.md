@@ -67,3 +67,4 @@ The src folder contains a set of exercises related to Matplotlib. These exercise
 You do not have to be afraid of errors. Instead, feel free to make as many of them as possible in this codespace. You cannot go wrong, and if you do, you can always create a new, fresh codespace. The idea is for you to get familiar with the code and basics.
 
 If you feel you are stuck, feel free to ask for help.
+
